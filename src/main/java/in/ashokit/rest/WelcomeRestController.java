@@ -22,6 +22,7 @@ public class WelcomeRestController {
 		logger.info("***** welcomeMsg() execution end *****");
 		String s = "hello";
 		logger.info("******************************************************************");
+                String name = "Gunjan";
 		return msg;
 	}
 	
